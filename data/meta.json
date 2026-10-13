@@ -1,0 +1,72 @@
+{
+  "app": {
+    "name": "MH Policy Trainer",
+    "tagline": "Learn the Philippine Mental Health Act and the DOH frameworks, one cited provision at a time.",
+    "contentVersion": "1.0.0",
+    "contentDate": "2026-10-13"
+  },
+  "documents": [
+    {
+      "id": "ra11036",
+      "short": "RA 11036",
+      "title": "Republic Act No. 11036, the Mental Health Act",
+      "type": "National law",
+      "year": "2018",
+      "dateNote": "Approved June 20, 2018",
+      "blurb": "The foundation. Declares mental health a basic right, lists the rights of service users, creates the Philippine Council for Mental Health and assigns duties to agencies and local governments.",
+      "sourceNote": "Reviewed from a legal-database copy of the law. Check quotations against the Official Gazette."
+    },
+    {
+      "id": "ao2016",
+      "short": "AO 2016-0039",
+      "title": "DOH Administrative Order No. 2016-0039, Revised Operational Framework for a Comprehensive National Mental Health Program",
+      "type": "DOH administrative order",
+      "year": "2016",
+      "dateNote": "Signed October 2016 by Health Secretary Paulyn Ubial (the scanned date line is partly illegible)",
+      "blurb": "The operating manual for the National Mental Health Program. Sets principles, five program components and the roles of each DOH office, PhilHealth and LGUs. Issued two years before the Act.",
+      "sourceNote": "Reviewed from a machine-read scan. A few characters in the scan are garbled; verify against the official DOH copy."
+    },
+    {
+      "id": "ao2025",
+      "short": "AO 2025-0028",
+      "title": "DOH Administrative Order No. 2025-0028, National Policy Framework for Community-Based Mental Health Services",
+      "type": "DOH administrative order",
+      "year": "2025",
+      "dateNote": "Signed by Health Secretary Teodoro J. Herbosa (the date line on the scan appears to read December 22, 2025; verify)",
+      "blurb": "The community-based framework. Sets a minimum service package, three tiers of worker competency, LGU planning duties, quarterly reporting and data privacy rules.",
+      "sourceNote": "Reviewed from a machine-read scan. A few words and place names are garbled; verify against the official DOH copy."
+    }
+  ],
+  "topics": [
+    { "id": "principles", "label": "Policy and principles" },
+    { "id": "rights", "label": "Rights and safeguards" },
+    { "id": "consent", "label": "Consent and decision-making" },
+    { "id": "governance", "label": "Governance and coordination" },
+    { "id": "services", "label": "Services and facilities" },
+    { "id": "community", "label": "Community-based care" },
+    { "id": "workforce", "label": "Workforce and training" },
+    { "id": "education", "label": "Schools and workplaces" },
+    { "id": "financing", "label": "Financing and insurance" },
+    { "id": "medicines", "label": "Medicines" },
+    { "id": "crisis", "label": "Crisis and emergencies" },
+    { "id": "data", "label": "Data, research and monitoring" },
+    { "id": "accountability", "label": "Oversight and penalties" },
+    { "id": "definitions", "label": "Definitions" }
+  ],
+  "agencies": [
+    { "id": "doh", "label": "DOH" },
+    { "id": "pcmh", "label": "Philippine Council for Mental Health" },
+    { "id": "ncmh", "label": "National Center for Mental Health" },
+    { "id": "chd", "label": "DOH Centers for Health Development" },
+    { "id": "lgu", "label": "Local government units" },
+    { "id": "philhealth", "label": "PhilHealth" },
+    { "id": "chr", "label": "Commission on Human Rights" },
+    { "id": "education", "label": "DepEd, CHED, TESDA" },
+    { "id": "labor", "label": "DOLE, Civil Service Commission" },
+    { "id": "dswd", "label": "DSWD" },
+    { "id": "facilities", "label": "Hospitals and facilities" },
+    { "id": "community", "label": "Community and civil society" }
+  ],
+  "disclaimer": "Educational use only. This app is not legal advice and is not an official DOH product. Always check a provision against the official text before relying on it.",
+  "crisisNote": "If someone is in immediate danger, contact local emergency services. For current National Center for Mental Health crisis hotline numbers, see ncmh.gov.ph."
+}

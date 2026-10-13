@@ -1,0 +1,733 @@
+[
+  {
+    "id": "ra-s2", "doc": "ra11036", "ref": "Sec. 2", "title": "Declaration of Policy",
+    "topics": ["principles", "rights"], "agencies": ["doh"],
+    "summary": "The State affirms the basic right of all Filipinos to mental health, together with the fundamental rights of people who need mental health services.",
+    "points": [
+      "Mental health is to be valued, promoted and protected, and mental health conditions treated and prevented.",
+      "Care must be timely, affordable, high quality and culturally appropriate.",
+      "Services must be free from coercion and accountable to service users.",
+      "People affected by mental health conditions can exercise the full range of human rights and take part in society and work free from stigma and discrimination.",
+      "The State must comply strictly with the Universal Declaration of Human Rights and the Convention on the Rights of Persons with Disabilities.",
+      "The Magna Carta for Disabled Persons (RA 7277) is expressly recognized as applying to persons with mental health conditions."
+    ]
+  },
+  {
+    "id": "ra-s3", "doc": "ra11036", "ref": "Sec. 3", "title": "Objectives",
+    "topics": ["principles", "governance"], "agencies": ["doh"],
+    "summary": "Six objectives frame the whole law, from governance to schools and workplaces.",
+    "points": [
+      "Strengthen leadership and governance for mental health.",
+      "Build a comprehensive, integrated, effective national mental health care system for psychiatric, neurologic and psychosocial needs.",
+      "Protect the rights and freedoms of persons with these needs.",
+      "Strengthen information systems, evidence and research.",
+      "Integrate mental health care in basic health services.",
+      "Integrate strategies that promote mental health in schools, workplaces and communities."
+    ]
+  },
+  {
+    "id": "ra-s4", "doc": "ra11036", "ref": "Sec. 4", "title": "Definitions",
+    "topics": ["definitions"], "agencies": [],
+    "summary": "Defines the terms the rest of the Act relies on. Several are central to rights: service user, informed consent, legal representative, supported decision making and recovery-based approach.",
+    "points": [
+      "Service user: a person with lived experience of any mental health condition, including those who need or are undergoing psychiatric, neurologic or psychosocial care.",
+      "Deinstitutionalization: moving service users from institutional and segregated settings to community-based settings that support social participation and recovery.",
+      "Impairment or temporary loss of decision-making capacity: a medically determined inability to give informed consent, assessed by a mental health professional.",
+      "Recovery-based approach: care centered on the service user's strengths, with people with lived experience as equal partners.",
+      "Supported decision making: helping a service user who has capacity to express a preference or decision, with safeguards against undue influence, coercion or abuse."
+    ]
+  },
+  {
+    "id": "ra-s5", "doc": "ra11036", "ref": "Sec. 5", "title": "Rights of Service Users",
+    "topics": ["rights", "consent"], "agencies": ["facilities", "doh"],
+    "summary": "The core rights list. Service users enjoy all constitutional and international human rights on an equal, non-discriminatory basis, plus specific rights in care.",
+    "points": [
+      "Freedom from discrimination and stigma by public or private actors.",
+      "Evidence-based treatment of the same standard regardless of age, sex, socioeconomic status, race, ethnicity or sexual orientation.",
+      "Access to mental health services at all levels of the health care system, in the least restrictive environment and manner.",
+      "Humane treatment, free from solitary confinement, torture and cruel, inhumane or degrading treatment.",
+      "Aftercare and rehabilitation, where possible in the community.",
+      "Confidentiality of records. Disclosure needs written consent except in five cases: law or court order, the user's consent, a life-threatening emergency, a minor believed to be a victim of child abuse, or a case against a mental health professional.",
+      "Informed consent before treatment, including the right to withdraw it.",
+      "Take part in the treatment plan, appoint a legal representative, send and receive uncensored communication, and get legal help (the Public Attorney's Office if they cannot afford counsel).",
+      "Access to their own clinical records unless the attending professional believes disclosure would cause harm; this can be contested with the internal review board or the CHR.",
+      "Be told of these rights within 24 hours of admission to a facility, in a form and language they understand.",
+      "File complaints about abuses and violations, including unlawful involuntary treatment or confinement."
+    ]
+  },
+  {
+    "id": "ra-s6", "doc": "ra11036", "ref": "Sec. 6", "title": "Rights of Family Members, Carers and Legal Representatives",
+    "topics": ["rights"], "agencies": ["community"],
+    "summary": "Family members, carers and legal representatives have their own rights, which depend on the service user's consent where treatment decisions are involved.",
+    "points": [
+      "Receive appropriate psychosocial support from relevant government agencies.",
+      "With the service user's consent, take part in forming and carrying out the individual treatment plan.",
+      "Apply for the release or transfer of the service user to an appropriate facility.",
+      "Take part in mental health advocacy, policy planning, legislation, service provision, monitoring, research and evaluation."
+    ]
+  },
+  {
+    "id": "ra-s7", "doc": "ra11036", "ref": "Sec. 7", "title": "Rights of Mental Health Professionals",
+    "topics": ["rights", "workforce"], "agencies": ["facilities"],
+    "summary": "Professionals are entitled to safe working conditions and a voice in service planning, and may advocate for a service user whose wishes differ from the family's.",
+    "points": [
+      "A safe and supportive work environment and continuous professional development.",
+      "Take part in planning services, setting standards and developing policy and guidelines.",
+      "Except in emergencies, manage their own practice, including whether to accept or decline a service user.",
+      "Advocate for a service user whose wishes are at odds with those of family or legal representatives."
+    ]
+  },
+  {
+    "id": "ra-s8", "doc": "ra11036", "ref": "Sec. 8", "title": "Informed Consent to Treatment",
+    "topics": ["consent", "rights"], "agencies": ["facilities"],
+    "summary": "Written informed consent is required before any therapy or treatment plan, including physical or chemical restraint. Everyone is presumed to have legal capacity.",
+    "points": [
+      "Service users give informed consent in writing before treatment starts.",
+      "All persons, including service users, persons with disabilities and minors, are presumed to have legal capacity regardless of the nature or effects of their condition.",
+      "Children have the right to express their views on matters affecting them, given due consideration according to age and maturity."
+    ]
+  },
+  {
+    "id": "ra-s9", "doc": "ra11036", "ref": "Sec. 9", "title": "Advance Directive",
+    "topics": ["consent"], "agencies": [],
+    "summary": "A service user may set out treatment preferences in advance through a signed, dated and notarized advance directive.",
+    "points": [
+      "It can be revoked by a new advance directive or a notarized revocation."
+    ]
+  },
+  {
+    "id": "ra-s10", "doc": "ra11036", "ref": "Sec. 10", "title": "Legal Representative",
+    "topics": ["consent"], "agencies": [],
+    "summary": "A service user can appoint a legal representative of legal age by notarized document. If none is appointed, the Act lists who acts, in order.",
+    "points": [
+      "The representative supports and represents the user, receives medical information, and acts as substitute decision maker only when a mental health professional assesses temporary impairment of capacity.",
+      "A named person may decline, but must take reasonable steps to tell the user and the attending professional.",
+      "Default order if none is appointed: (1) the spouse, unless permanently separated by court decree or abandonment; (2) non-minor children; (3) either parent by mutual consent if the user is a minor; (4) the chief, administrator or medical director of the facility; (5) a person appointed by a court."
+    ]
+  },
+  {
+    "id": "ra-s11", "doc": "ra11036", "ref": "Sec. 11", "title": "Supported Decision Making",
+    "topics": ["consent"], "agencies": [],
+    "summary": "A service user may designate up to three supporters, including the legal representative.",
+    "points": [
+      "Supporters can access the user's medical information, consult on proposed treatment and be present at appointments and consultations."
+    ]
+  },
+  {
+    "id": "ra-s12", "doc": "ra11036", "ref": "Sec. 12", "title": "Internal Review Board",
+    "topics": ["accountability", "rights"], "agencies": ["facilities", "doh", "chr"],
+    "summary": "Public and private health facilities must set up internal review boards to review cases about treatment, restraint or confinement of service users.",
+    "points": [
+      "Composition: a DOH representative, a CHR representative, a person nominated by a service-user or family organization accredited by the Council, and other members set by the implementing rules.",
+      "Powers: regularly review and audit cases, inspect facilities for cruel or degrading conditions, investigate complaints or act on its own initiative, and remedy violations, including recommending administrative, civil or criminal cases."
+    ]
+  },
+  {
+    "id": "ra-s13", "doc": "ra11036", "ref": "Sec. 13", "title": "Exceptions to Informed Consent",
+    "topics": ["consent", "crisis", "accountability"], "agencies": ["facilities"],
+    "summary": "In a psychiatric or neurologic emergency, or when decision-making capacity is impaired, treatment or restraint without consent is allowed only under four safeguards.",
+    "points": [
+      "It must follow the service user's advance directive, if available, unless doing so would pose an immediate risk of serious harm to the patient or another person.",
+      "It is limited to what is necessary and lasts only while the emergency or impairment lasts.",
+      "It must be ordered by the attending mental health professional, and the internal review board must review the order within 15 days and every 15 days after while it continues.",
+      "It must follow approved guidelines with clear criteria for starting and ending the intervention, be fully documented, and be subject to regular independent monitoring, review and audit."
+    ]
+  },
+  {
+    "id": "ra-s14", "doc": "ra11036", "ref": "Sec. 14", "title": "Quality of Mental Health Services",
+    "topics": ["services"], "agencies": ["facilities"],
+    "summary": "Services must rest on research evidence, respond to clinical, gender, cultural and ethnic needs, use the least restrictive setting, be age appropriate and be delivered with accountability.",
+    "points": []
+  },
+  {
+    "id": "ra-s15", "doc": "ra11036", "ref": "Sec. 15", "title": "Mental Health Services at the Community Level",
+    "topics": ["community", "services"], "agencies": ["lgu", "doh", "pcmh"],
+    "summary": "Primary mental health services are to be integrated into basic health services, especially at the city, municipal and barangay levels.",
+    "points": [
+      "The DOH sets service standards in consultation with stakeholders, based on current evidence.",
+      "Every local government unit and academic institution must create its own program following general guidelines set by the Philippine Council for Mental Health.",
+      "LGUs and academic institutions coordinate with government agencies and the private sector."
+    ]
+  },
+  {
+    "id": "ra-s16", "doc": "ra11036", "ref": "Sec. 16", "title": "Community-based Mental Health Care Facilities",
+    "topics": ["community", "services", "financing"], "agencies": ["doh", "lgu"],
+    "summary": "The national government, through the DOH, funds the establishment of community-based mental health care facilities and assists in their operation.",
+    "points": [
+      "Located in provinces, cities and clusters of municipalities, based on population needs.",
+      "Each facility needs a room or clinic, mental health professionals, allied professionals, support staff, trained barangay health workers, volunteers and family members, basic equipment and supplies, and an adequate stock of medicines suited to its level."
+    ]
+  },
+  {
+    "id": "ra-s17", "doc": "ra11036", "ref": "Sec. 17", "title": "Reportorial Requirements",
+    "topics": ["data", "accountability"], "agencies": ["lgu", "pcmh", "doh"],
+    "summary": "LGUs report quarterly to the Council through the DOH.",
+    "points": [
+      "Reports cover users served, kinds of illness or disability, duration and result of treatment, and age, gender, education and employment, without disclosing identities."
+    ]
+  },
+  {
+    "id": "ra-s18", "doc": "ra11036", "ref": "Sec. 18", "title": "Services in Regional, Provincial and Tertiary Hospitals",
+    "topics": ["services"], "agencies": ["facilities"],
+    "summary": "All regional, provincial and tertiary hospitals, including private hospitals that serve paying patients, must provide a defined set of psychiatric, psychosocial and neurologic services.",
+    "points": [
+      "Short-term inpatient care in a small psychiatric or neurologic ward for acute symptoms.",
+      "Partial hospital care and outpatient care in collaboration with primary health care programs.",
+      "Home care for users with special needs.",
+      "Coordination with drug rehabilitation centers.",
+      "A referral system with other public and private health and social welfare providers."
+    ]
+  },
+  {
+    "id": "ra-s19", "doc": "ra11036", "ref": "Sec. 19", "title": "Duties of Mental Health Facilities",
+    "topics": ["services", "rights"], "agencies": ["facilities"],
+    "summary": "Facilities must minimize restrictive care, inform users of their rights, obtain informed consent, keep a register of treatments and procedures, and appoint legal representatives only through the proper procedure.",
+    "points": []
+  },
+  {
+    "id": "ra-s20", "doc": "ra11036", "ref": "Sec. 20", "title": "Drug Screening Services",
+    "topics": ["services"], "agencies": ["facilities", "lgu"],
+    "summary": "Consistent with treating drug dependency as a mental health issue, each local health care facility must be capable of drug screening.",
+    "points": []
+  },
+  {
+    "id": "ra-s21", "doc": "ra11036", "ref": "Sec. 21", "title": "Suicide Prevention",
+    "topics": ["crisis", "services"], "agencies": ["doh"],
+    "summary": "Mental health services must include suicide intervention, prevention and response, with particular attention to young people.",
+    "points": [
+      "24/7 hotlines are to be set up and existing hotlines strengthened."
+    ]
+  },
+  {
+    "id": "ra-s22", "doc": "ra11036", "ref": "Sec. 22", "title": "Public Awareness",
+    "topics": ["education", "principles"], "agencies": ["doh", "lgu"],
+    "summary": "The DOH and LGUs run a sustained nationwide multimedia campaign on protecting and promoting mental health and rights.",
+    "points": []
+  },
+  {
+    "id": "ra-s23", "doc": "ra11036", "ref": "Sec. 23", "title": "Integration of Mental Health into the Educational System",
+    "topics": ["education", "workforce"], "agencies": ["education"],
+    "summary": "Age-appropriate mental health content goes into curricula at all levels, and psychiatry and neurology become required subjects in medical and allied health courses.",
+    "points": []
+  },
+  {
+    "id": "ra-s24", "doc": "ra11036", "ref": "Sec. 24", "title": "Mental Health Promotion in Educational Institutions",
+    "topics": ["education"], "agencies": ["education"],
+    "summary": "Schools, colleges, universities and technical schools develop policies and programs for students, educators and employees.",
+    "points": [
+      "Raise awareness, identify and support people at risk, and provide referral to treatment and psychosocial support.",
+      "All public and private educational institutions are required to have a complement of mental health professionals."
+    ]
+  },
+  {
+    "id": "ra-s25", "doc": "ra11036", "ref": "Sec. 25", "title": "Mental Health Promotion and Policies in the Workplace",
+    "topics": ["education"], "agencies": ["labor"],
+    "summary": "Employers develop mental health policies and programs, work to correct stigma and discrimination, and support employees with mental health conditions.",
+    "points": []
+  },
+  {
+    "id": "ra-s26", "doc": "ra11036", "ref": "Sec. 26", "title": "Capacity Building, Reorientation and Training",
+    "topics": ["workforce"], "agencies": ["doh", "facilities"],
+    "summary": "Professionals, workers and other providers train to deliver evidence-based, gender-sensitive, culturally appropriate and human rights-oriented services, with emphasis on community and public health.",
+    "points": []
+  },
+  {
+    "id": "ra-s27", "doc": "ra11036", "ref": "Sec. 27", "title": "Capacity Building of Barangay Health Workers",
+    "topics": ["workforce", "community"], "agencies": ["doh", "lgu"],
+    "summary": "The DOH disseminates information and training programs to LGUs. LGUs, with DOH technical assistance, train BHWs and barangay volunteers on mental health promotion.",
+    "points": [
+      "The DOH assists LGUs with the medical supplies and equipment BHWs need."
+    ]
+  },
+  {
+    "id": "ra-s28", "doc": "ra11036", "ref": "Sec. 28", "title": "Research and Development",
+    "topics": ["data"], "agencies": ["doh", "ncmh"],
+    "summary": "Research is to produce evidence for a culturally relevant national program that incorporates indigenous concepts and practices, under high ethical standards.",
+    "points": [
+      "Research needs free and informed consent, independent ethics committee approval, and no payment to researchers for recruiting participants.",
+      "It also covers non-medical, traditional and alternative practices."
+    ]
+  },
+  {
+    "id": "ra-s29", "doc": "ra11036", "ref": "Sec. 29", "title": "The National Center for Mental Health",
+    "topics": ["services", "data"], "agencies": ["ncmh"],
+    "summary": "The NCMH, formerly the National Mental Hospital, is named the premier training and research center for developing mental and neurological service interventions in the country.",
+    "points": []
+  },
+  {
+    "id": "ra-s30", "doc": "ra11036", "ref": "Sec. 30", "title": "Duties and Responsibilities of the DOH",
+    "topics": ["governance", "financing", "services", "data"], "agencies": ["doh", "philhealth"],
+    "summary": "Twelve duties make the DOH the lead agency, from the national program to facility licensing, data, insurance and training.",
+    "points": [
+      "Formulate and implement a national mental health program and an awareness framework.",
+      "Regulate, license, monitor and assess all mental health facilities.",
+      "Integrate mental health into routine health information systems and report data disaggregated by sex and age, including suicide data.",
+      "Coordinate with PhilHealth so insurance packages are equivalent to those for physical disorders of comparable impact.",
+      "Develop alternatives to institutionalization, especially community and recovery-based approaches.",
+      "Ensure all health facilities set up internal review boards.",
+      "Establish a balanced system of community-based and hospital-based services from barangay to national level.",
+      "Ensure all health workers get human rights training.",
+      "Prohibit forced or inadequately paid labor in facilities unless part of an accepted therapeutic program."
+    ]
+  },
+  {
+    "id": "ra-s31", "doc": "ra11036", "ref": "Sec. 31", "title": "Duties of the Commission on Human Rights",
+    "topics": ["accountability", "rights"], "agencies": ["chr"],
+    "summary": "The CHR investigates complaints, inspects facilities, looks into involuntary treatment and confinement, and appoints a focal commissioner for mental health.",
+    "points": []
+  },
+  {
+    "id": "ra-s32", "doc": "ra11036", "ref": "Sec. 32", "title": "Investigative Role of the CHR",
+    "topics": ["accountability"], "agencies": ["chr"],
+    "summary": "The CHR's investigative role under the Act is limited to violations of civil and political rights, consistent with its constitutional powers.",
+    "points": []
+  },
+  {
+    "id": "ra-s33", "doc": "ra11036", "ref": "Sec. 33", "title": "Complaint and Investigation",
+    "topics": ["accountability", "rights"], "agencies": ["chr"],
+    "summary": "The Department of Justice and the CHR receive complaints of improprieties and abuses and start investigations. The CHR inspects places where users are held and can file complaints on its own initiative.",
+    "points": []
+  },
+  {
+    "id": "ra-s34", "doc": "ra11036", "ref": "Sec. 34", "title": "Duties of DepEd, CHED and TESDA",
+    "topics": ["education"], "agencies": ["education"],
+    "summary": "Integrate age-appropriate mental health content, set guidelines and standards for school programs, promote well-being in institutions, and make sure programs have qualified mental health professionals.",
+    "points": []
+  },
+  {
+    "id": "ra-s35", "doc": "ra11036", "ref": "Sec. 35", "title": "Duties of DOLE and the Civil Service Commission",
+    "topics": ["education"], "agencies": ["labor"],
+    "summary": "Develop guidelines and standards for workplace mental health programs and policies that promote mental health and address stigma and discrimination.",
+    "points": []
+  },
+  {
+    "id": "ra-s36", "doc": "ra11036", "ref": "Sec. 36", "title": "Duties of the DSWD",
+    "topics": ["community", "crisis"], "agencies": ["dswd"],
+    "summary": "Refer service users to care, provide or facilitate housing, counselling, therapy and livelihood training, and, with LGUs and the DOH, run community resilience and psychosocial training, including support during and after disasters.",
+    "points": []
+  },
+  {
+    "id": "ra-s37", "doc": "ra11036", "ref": "Sec. 37", "title": "Duties of Local Government Units",
+    "topics": ["community", "governance", "services"], "agencies": ["lgu"],
+    "summary": "LGUs carry much of the community mandate.",
+    "points": [
+      "Make local regulations and guidelines, including a local ordinance on mental health consistent with national policy.",
+      "Integrate mental health into basic health care and ensure services in primary health facilities and hospitals.",
+      "Train service providers at LGU level.",
+      "Promote deinstitutionalization and recovery-based approaches.",
+      "Establish, reorient and modernize facilities.",
+      "Where independent living is not available, provide or facilitate public housing, vocational training and skills programs, and disability or pension benefits.",
+      "Refer service users to appropriate care.",
+      "Set up a multi-sectoral stakeholder network for identifying, managing and preventing mental health conditions."
+    ]
+  },
+  {
+    "id": "ra-s38", "doc": "ra11036", "ref": "Sec. 38", "title": "Upgrading of Local Hospitals and Health Care Facilities",
+    "topics": ["services", "community", "financing"], "agencies": ["lgu", "doh"],
+    "summary": "Where local data show a need, LGUs establish or upgrade hospitals and facilities with qualified staff, equipment and supplies to provide mental health services and handle psychiatric emergencies.",
+    "points": [
+      "People in geographically isolated, highly populated or depressed areas must have the same access, using means such as home visits or mobile health clinics.",
+      "The national government provides additional funding and assistance."
+    ]
+  },
+  {
+    "id": "ra-s39", "doc": "ra11036", "ref": "Sec. 39", "title": "Philippine Council for Mental Health: Mandate",
+    "topics": ["governance"], "agencies": ["pcmh", "doh"],
+    "summary": "The Council is a policy-making, planning, coordinating and advisory body attached to the DOH. It oversees implementation of the Act, especially protection of rights and delivery of unified, integrated services.",
+    "points": []
+  },
+  {
+    "id": "ra-s40", "doc": "ra11036", "ref": "Sec. 40", "title": "Philippine Council for Mental Health: Duties and Functions",
+    "topics": ["governance", "financing", "data"], "agencies": ["pcmh"],
+    "summary": "The Council develops and updates the multi-sectoral strategic plan, monitors implementation and coordinates agencies.",
+    "points": [
+      "The strategic plan covers rights and promotion targets, a unified service delivery network including workforce and information systems, and a budget and investment plan identifying funding sources.",
+      "It monitors the Act's rules and the plan, with mid-term assessments of impact.",
+      "It coordinates joint planning and budgeting so planned programs are in agency annual budgets."
+    ]
+  },
+  {
+    "id": "ra-s41", "doc": "ra11036", "ref": "Sec. 41", "title": "Philippine Council for Mental Health: Composition",
+    "topics": ["governance"], "agencies": ["pcmh"],
+    "summary": "The Secretary of Health chairs. Government members are the Secretaries of Education, Labor and Employment and the Interior and Local Government, and the chairpersons of the CHR and CHED.",
+    "points": [
+      "Non-government members: one from academe or research, one from medical or health professional organizations, and one from NGOs involved in mental health.",
+      "They are appointed by the President from three nominees each and serve three-year terms."
+    ]
+  },
+  {
+    "id": "ra-s42", "doc": "ra11036", "ref": "Sec. 42", "title": "DOH Mental Health Division",
+    "topics": ["governance"], "agencies": ["doh", "pcmh"],
+    "summary": "A Mental Health Division is created in the DOH under the Disease Prevention and Control Bureau, staffed by qualified specialists. It implements the National Mental Health Program and is the Council's secretariat.",
+    "points": []
+  },
+  {
+    "id": "ra-s43", "doc": "ra11036", "ref": "Sec. 43", "title": "Voluntary Submission of a Drug Dependent",
+    "topics": ["services"], "agencies": ["facilities"],
+    "summary": "Persons who voluntarily submit to treatment and persons charged under the Comprehensive Dangerous Drugs Act (RA 9165) are examined for mental health conditions and, if found to have one, are covered by this Act.",
+    "points": []
+  },
+  {
+    "id": "ra-s44", "doc": "ra11036", "ref": "Sec. 44", "title": "Penalty Clause",
+    "topics": ["accountability", "rights"], "agencies": [],
+    "summary": "Four acts are punishable by imprisonment of six months to two years, a fine of P10,000 to P200,000, or both.",
+    "points": [
+      "Failure to secure informed consent (outside the emergency exceptions).",
+      "Violation of confidentiality.",
+      "Discrimination against a person with a mental health condition.",
+      "Inhumane, cruel, degrading or harmful treatment not based on medical or scientific evidence.",
+      "If a juridical person commits the violation, the penalty falls on the directors, officers or employees responsible. An alien offender is deported after serving the sentence."
+    ]
+  },
+  {
+    "id": "ra-s45", "doc": "ra11036", "ref": "Sec. 45", "title": "Appropriations",
+    "topics": ["financing"], "agencies": ["doh", "pcmh"],
+    "summary": "Initial implementation was charged to the DOH's 2018 appropriations. Later budgets follow the Council's strategic plan and go into the National Expenditure Program.",
+    "points": []
+  },
+  {
+    "id": "ra-s46", "doc": "ra11036", "ref": "Sec. 46", "title": "Implementing Rules and Regulations",
+    "topics": ["governance"], "agencies": ["doh", "chr", "dswd", "education", "labor"],
+    "summary": "The Secretary of Health, with the CHR, DSWD, DILG, DepEd, CHED, TESDA, DOLE, CSC and service-user and professional groups, issues the implementing rules within 120 days of effectivity.",
+    "points": []
+  },
+
+  {
+    "id": "a16-p1", "doc": "ao2016", "ref": "Part I", "title": "Background and Rationale",
+    "topics": ["principles", "data"], "agencies": ["doh"],
+    "summary": "Explains why a revised framework was needed: a large global and local burden, a treatment gap, and an uneven response despite earlier steps.",
+    "points": [
+      "Cites global figures: mental, neurological and substance use disorders cause 10.4% of global disability-adjusted life years and are the leading cause of years lived with disability.",
+      "Cites a 2004 WHO estimate that up to 60% of people at Philippine primary care clinics have one or more such disorders, and a 2011 school survey in which 16% of students aged 13 to 15 had seriously considered suicide.",
+      "Acknowledges the 2001 National Mental Health Policy (AO 8 s. 2001) and AO 2007-0009 but says a rational, unified, widespread response was still missing, and that strategies against stigma and rights violations were lacking.",
+      "Ties the program to universal health care: there is no Universal Health Care without mental health."
+    ]
+  },
+  {
+    "id": "a16-p2", "doc": "ao2016", "ref": "Part II", "title": "Objectives",
+    "topics": ["principles", "governance"], "agencies": ["doh", "philhealth", "lgu"],
+    "summary": "Three objectives: guide implementers, define roles, and generate stakeholder support.",
+    "points": [
+      "Guide program managers, providers and stakeholders at all levels of care.",
+      "Define the roles of DOH offices, PhilHealth, LGUs and higher-level referral facilities.",
+      "Generate support from stakeholders for a comprehensive program."
+    ]
+  },
+  {
+    "id": "a16-p3", "doc": "ao2016", "ref": "Part III", "title": "Scope and Coverage",
+    "topics": ["governance"], "agencies": ["doh", "lgu", "community"],
+    "summary": "Applies to all DOH units and attached agencies and to local government units, and also covers NGOs, professional organizations, the private sector and other health and non-health partners.",
+    "points": []
+  },
+  {
+    "id": "a16-p4", "doc": "ao2016", "ref": "Part IV", "title": "Definition of Terms",
+    "topics": ["definitions"], "agencies": [],
+    "summary": "Defines mental health, mental disorders (by ICD-10), neurological disorders, substance abuse, psychosocial disabilities, well-being, psychosocial support and service providers.",
+    "points": []
+  },
+  {
+    "id": "a16-p5", "doc": "ao2016", "ref": "Part V", "title": "Guiding Principles",
+    "topics": ["principles", "rights"], "agencies": [],
+    "summary": "Six principles guide all policies, plans and interventions.",
+    "points": [
+      "Universal health coverage: access to essential services without the risk of impoverishment.",
+      "Upholding human rights, in line with the Convention on the Rights of Persons with Disabilities.",
+      "Life course approach: from conception to older age.",
+      "Evidence-based practice, with cultural considerations.",
+      "Multisectoral approach: health, education, housing, social services, labor, police and legal sectors.",
+      "Empowerment of persons with psychosocial disabilities in advocacy, policy, services, monitoring and research."
+    ]
+  },
+  {
+    "id": "a16-p6", "doc": "ao2016", "ref": "Part VI", "title": "Action Framework for the National Mental Health Program",
+    "topics": ["principles", "services"], "agencies": ["doh"],
+    "summary": "Sets the goal, three strategic approaches and five program components.",
+    "points": [
+      "Goal: promote mental health and well-being, prevent MNS disorders and addiction, provide care, enhance recovery and reduce illness, disability and death, while respecting the right to quality care.",
+      "Three approaches: a health systems approach, a whole-of-government approach and a whole-of-society approach.",
+      "Five components: Wellness of Daily Living; Extreme Life Experience (trauma, domestic violence, disasters); Mental Disorders; Neurologic Disorders; Substance Abuse and Other Forms of Addiction.",
+      "The framework adopts elements of the WHO Western Pacific regional agenda for the Mental Health Action Plan 2013 to 2020 and stays consistent with AO 8 s. 2001."
+    ]
+  },
+  {
+    "id": "a16-p7", "doc": "ao2016", "ref": "Part VII", "title": "General Guidelines",
+    "topics": ["principles", "community", "data"], "agencies": ["doh"],
+    "summary": "Nine guidelines (A to I) set direction: whole-of-government and whole-of-society action, promotion and prevention, a continuum of care, information and research, and legislation.",
+    "points": [
+      "Services must be inclusive, responsive, integrated and comprehensive across levels of care, with community services clearly linked to facility-based services.",
+      "The program takes a balanced approach between community-based services, primary, secondary and tertiary care, and specialized facility-based services.",
+      "Interventions must be sensitive to culture, age, gender and disability and inclusive of at-risk and marginalized groups.",
+      "Research, surveillance, monitoring and evaluation are to be institutionalized.",
+      "The program shall advocate for national legislation guaranteeing the rights and freedoms of persons with MNS disorders. This is the law that became RA 11036 two years later."
+    ]
+  },
+  {
+    "id": "a16-p8", "doc": "ao2016", "ref": "Part VIII", "title": "Specific Guidelines",
+    "topics": ["governance", "workforce", "financing", "data"], "agencies": ["doh", "lgu", "community"],
+    "summary": "Measures the DOH takes to lead implementation.",
+    "points": [
+      "Integrate the program into relevant DOH and attached agency plans, and advocate for it in the plans of other agencies and LGUs.",
+      "Strengthen health systems: program structures at every level, workforce capacity, resource mobilization, sustainable financing and equitable access to medicines and non-drug interventions.",
+      "Support programs that build literacy and self-care and reduce stigma.",
+      "Support research, monitoring and evaluation.",
+      "Build partnerships among agencies, civil society, patient-family groups and private institutions."
+    ]
+  },
+  {
+    "id": "a16-p9", "doc": "ao2016", "ref": "Part IX", "title": "Implementation Arrangement",
+    "topics": ["governance"], "agencies": ["doh", "philhealth", "ncmh"],
+    "summary": "Sets up technical oversight and a working group, and relies on the existing service delivery network.",
+    "points": [
+      "An Oversight Committee chaired by the Undersecretary or Assistant Secretary of Health for Technical Services advises the Secretary.",
+      "A Technical Working Group chaired by the Disease Prevention and Control Bureau includes DOH bureaus, PhilHealth, the NCMH and civil society and patient-family groups. The bureau's Essential Non-Communicable Disease Division is its secretariat.",
+      "Delivery uses existing institutions: the NCMH, treatment and rehabilitation centers, DOH regional offices, DOH hospitals and primary health care centers.",
+      "The League of Mayors of the Philippines and development partners may be invited to working group meetings."
+    ]
+  },
+  {
+    "id": "a16-p10", "doc": "ao2016", "ref": "Part X", "title": "Roles and Responsibilities",
+    "topics": ["governance", "financing", "medicines", "crisis", "workforce"], "agencies": ["doh", "philhealth", "ncmh", "lgu", "facilities", "community"],
+    "summary": "Assigns a role to each DOH office, PhilHealth, LGUs and the private sector.",
+    "points": [
+      "Disease Prevention and Control Bureau: leads the program, develops standards and service packages with PhilHealth, gives technical assistance and runs an annual Program Implementation Review.",
+      "Health Promotion and Communications Service: national communications campaign.",
+      "Health Emergency Management Bureau: coordinates mental health and psychosocial support in disasters, epidemics and emergencies.",
+      "Dangerous Drugs Abuse Prevention and Treatment Program: prevention programs, plus treatment and aftercare standards.",
+      "PhilHealth: guides information needs and develops and implements insurance packages covering identification through rehabilitation.",
+      "Pharmaceutical Division: supply chain for affordable medicines and regular updates of the essential medicines list for MNS disorders.",
+      "NCMH and regional mental health facilities: models and standards for tertiary care and psychosocial rehabilitation.",
+      "DOH regional offices: lead and give technical assistance to LGUs and regional hospitals, including on community-based services.",
+      "Local government units: adopt and implement the program, provide services in primary health facilities and hospitals, and train personnel at peripheral units and district or provincial hospitals.",
+      "Private sector, civil society and patient-family groups: encouraged to organize promotion, treatment, rehabilitation and anti-stigma activities."
+    ]
+  },
+  {
+    "id": "a16-p11", "doc": "ao2016", "ref": "Part XI", "title": "Funding",
+    "topics": ["financing"], "agencies": ["doh", "lgu"],
+    "summary": "The DOH's Disease Prevention and Control Bureau and regional offices fund technical assistance, monitoring and health promotion, and may augment LGU funds. LGUs, other agencies and civil society groups are encouraged to provide counterpart funds.",
+    "points": []
+  },
+  {
+    "id": "a16-p12", "doc": "ao2016", "ref": "Part XII", "title": "Repealing Clause",
+    "topics": ["governance"], "agencies": ["doh"],
+    "summary": "Repeals AO 2007-0009 and 2007-0009A (the earlier operational framework for a sustainable mental health program) and other inconsistent issuances.",
+    "points": []
+  },
+
+  {
+    "id": "a25-p1", "doc": "ao2025", "ref": "Part I", "title": "Rationale",
+    "topics": ["principles", "community"], "agencies": ["doh", "lgu"],
+    "summary": "Frames community-based mental health (CBMH) as the answer to services that are limited, hospital-based and unevenly distributed.",
+    "points": [
+      "Cites estimates that mental, neurological and substance use conditions account for 10% of the global burden of disease and that 13.8% of Filipinos, about 1 in 7, have experienced the onset of at least one mental health condition.",
+      "Notes gaps in workforce, financing and service integration.",
+      "Cites pilot CBMH programs in Lemery, Batangas and expansion sites in Muntinlupa, Aklan, Leyte, Iloilo and BARMM, where training barangay health workers improved identification, management and referral of cases.",
+      "The order institutionalizes the National Policy Framework on CBMH to guide a systematic, coordinated scale-up."
+    ]
+  },
+  {
+    "id": "a25-p2", "doc": "ao2025", "ref": "Part II", "title": "Objectives",
+    "topics": ["principles", "governance"], "agencies": ["doh", "pcmh", "chd", "lgu"],
+    "summary": "Two objectives: define the DOH's shift toward integrated, community-based services, and set the roles of DOH bureaus, CHDs, the PCMH, LGUs and other stakeholders.",
+    "points": []
+  },
+  {
+    "id": "a25-p3", "doc": "ao2025", "ref": "Part III", "title": "Scope of Application",
+    "topics": ["governance"], "agencies": ["doh", "lgu", "community"],
+    "summary": "Applies to DOH bureaus, offices, CHDs and hospitals, drug abuse treatment and rehabilitation centers, LGUs, national agencies, NGOs and civil society, international partners, faith-based and disability organizations, and learning institutions.",
+    "points": [
+      "It also applies to the Ministry of Health of the Bangsamoro region (MOH-BARMM), subject to the Bangsamoro Organic Act."
+    ]
+  },
+  {
+    "id": "a25-p4", "doc": "ao2025", "ref": "Part IV", "title": "Definition of Terms",
+    "topics": ["definitions"], "agencies": [],
+    "summary": "Key terms for the framework.",
+    "points": [
+      "Community-based mental health (CBMH): delivery of mental and neurological health services within a geographically defined community.",
+      "Community health worker: a trained person who delivers such services, defined broadly to include teachers, parents and caregivers, workplace staff, volunteers, barangay health workers, self-help group champions, faith-based leaders and civil society organizations.",
+      "Task sharing: training non-specialist providers in the community to give mental health care, especially where resources are lacking.",
+      "Health Care Provider Network (HCPN): a public or private group of primary to tertiary providers giving integrated care, with the primary care provider as navigator.",
+      "Biopsychosocial Spiritual (BPSS) framework: views the person across biological, psychological, social and spiritual dimensions.",
+      "In this order, \"mental health\" also covers neurological conditions."
+    ]
+  },
+  {
+    "id": "a25-p5", "doc": "ao2025", "ref": "Part V", "title": "Guiding Principles",
+    "topics": ["principles", "rights"], "agencies": [],
+    "summary": "Four principles guide implementation.",
+    "points": [
+      "Person-centered, human rights-based approach (the service-user rights in RA 11036 are attached as Annex B).",
+      "Holistic mental and neurological health care using the BPSS framework.",
+      "Life course and settings-based approach: places where people learn, work and live.",
+      "Diversity, equity and inclusion: culturally sensitive, gender-responsive services that reach marginalized and vulnerable groups."
+    ]
+  },
+  {
+    "id": "a25-p6", "doc": "ao2025", "ref": "Part VI", "title": "General Guidelines",
+    "topics": ["community", "governance"], "agencies": ["doh", "lgu", "community"],
+    "summary": "The DOH promotes CBMH as a key strategy for accessible, integrated, people-centered services at the primary care level, consistent with the Mental Health Act and the UHC Act.",
+    "points": [
+      "The CBMH framework (Annex C) guides planning, delivery and monitoring.",
+      "Five key elements: community engagement; capacity building of community health workers and members; service user empowerment; strengthening family and support systems; and continuity of care.",
+      "Implementation is participatory and collaborative, involving LGUs, BHWs, volunteers, local providers, faith-based groups and civil society."
+    ]
+  },
+  {
+    "id": "a25-governance", "doc": "ao2025", "ref": "Part VII(A)", "title": "Governance and Support Structure",
+    "topics": ["governance", "community"], "agencies": ["doh", "pcmh", "chd", "lgu"],
+    "summary": "The DOH, through the PCMH, relevant bureaus and the CHDs, provides overall leadership and coordination and leads the strategic rollout.",
+    "points": [
+      "The DOH gives technical assistance to LGUs on planning and strategy.",
+      "All LGUs, through their local mental health council or local health board, develop and implement CBMH strategies based on their local epidemiological profile, resources and sociocultural context.",
+      "Local strategies are integrated into the Local Investment Plan for Health (LIPH) and the Annual Operation Plan.",
+      "Operational guidelines for the CBMH program are still to be developed by the DOH."
+    ]
+  },
+  {
+    "id": "a25-engagement", "doc": "ao2025", "ref": "Part VII, Community engagement", "title": "Community Engagement",
+    "topics": ["community", "services"], "agencies": ["lgu", "chd", "community"],
+    "summary": "LGUs, with CHD support, involve local officials, health workers, service users, carers, civil society and faith-based or civic groups from planning to evaluation.",
+    "points": [
+      "Engagement must prioritize vulnerable groups: people in geographically isolated and disadvantaged areas (GIDAs) and rural areas, women, children, older people, indigenous peoples and other marginalized groups.",
+      "LGUs run situational analyses and resource mapping, then prepare a CBMH Action Plan integrated into the LIPH (Annex D).",
+      "CBMH can be delivered through schools, workplaces and other community settings, and the order encourages mobile clinics, digital platforms and telemental health."
+    ]
+  },
+  {
+    "id": "a25-capacity", "doc": "ao2025", "ref": "Part VII(C)", "title": "Building the Capacity of Community Health Workers and Community Members",
+    "topics": ["workforce", "community"], "agencies": ["doh", "ncmh", "pcmh", "chd"],
+    "summary": "Community health workers and members are trained under the DOH competency framework for mental, neurological and substance use conditions, with minimum service requirements in Annex E.",
+    "points": [
+      "The DOH, the NCMH and the PCMH give guidelines on competencies, training design, delivery, and monitoring and evaluation. CHDs, MOH-BARMM and partners may also train, with DOH, NCMH and PCMH approval.",
+      "The DOH's Disease Prevention and Control Bureau (Mental Health Division) guides programs on available capacity-building activities.",
+      "Capacity building must focus on people in GIDAs and rural areas, women, children and older people."
+    ]
+  },
+  {
+    "id": "a25-empowerment", "doc": "ao2025", "ref": "Part VII, Service user empowerment", "title": "Service User Empowerment",
+    "topics": ["rights", "community"], "agencies": ["lgu", "community"],
+    "summary": "Service users are informed of their rights and benefits and take part in designing policies, programs and treatment plans.",
+    "points": [
+      "Community health workers help users understand and accept their conditions and support users and families.",
+      "Support systems assist reintegration, guided by the Peer Support Group Playbook."
+    ]
+  },
+  {
+    "id": "a25-family", "doc": "ao2025", "ref": "Part VII, Family and support groups", "title": "Strengthening the Family and Support Groups",
+    "topics": ["community", "rights"], "agencies": ["community", "lgu"],
+    "summary": "Families play a central role in decisions about mental and neurological health, so implementers educate and support them and mobilize neighborhood, faith-based, civic and NGO groups.",
+    "points": [
+      "Carers get support such as self-care seminars, stronger support groups, awareness and education, continuing education and financial help for medication."
+    ]
+  },
+  {
+    "id": "a25-continuity", "doc": "ao2025", "ref": "Part VII, Continuity of care", "title": "Continuity of Care",
+    "topics": ["community", "services"], "agencies": ["lgu", "community"],
+    "summary": "Recovery assistance supports users after treatment and as they return to community life.",
+    "points": [
+      "Recovery and support programs can cover health management, stable and safe housing, job placement, recreation, meaningful daily activity, work accommodation, flexible leave and medical confidentiality.",
+      "Implementers set up referral mechanisms with social support services and coordinate referrals for specialized or acute care to higher-level services."
+    ]
+  },
+  {
+    "id": "a25-services", "doc": "ao2025", "ref": "Part VII, Community-based services", "title": "Community-Based Mental and Neurological Health Services",
+    "topics": ["services", "community", "medicines", "crisis"], "agencies": ["lgu", "doh", "facilities"],
+    "summary": "Sets promotion duties and a minimum service package for the community level.",
+    "points": [
+      "Promotion: health literacy, culturally sensitive outreach to reduce stigma and encourage help-seeking, and peer support and self-help groups.",
+      "Basic services: screening, assessment and management of common conditions by mhGAP-trained primary care providers, including psychoeducation, day care, counseling and talk therapies, telemedicine, wellness programs and medication.",
+      "Telemental health for people who cannot leave home, work unusual hours or live in remote areas.",
+      "Psychosocial support and counseling through a network of trained professionals and responders.",
+      "Referral to higher-level facilities and back to the community, using the existing Health Care Provider Network.",
+      "Essential medicines through the Medicine Access Program for Mental Health, with supervision by trained providers.",
+      "Crisis services such as Mental Health and Psychosocial Support (MHPSS), crisis hotlines and centers, and mobile health teams.",
+      "Mental health screening and support can be built into programs on adolescent health, noncommunicable diseases, HIV, TB, healthy ageing and wellness checkups.",
+      "Implementers and stakeholders also carry out research to strengthen implementation."
+    ]
+  },
+  {
+    "id": "a25-monitoring", "doc": "ao2025", "ref": "Part VII(H)", "title": "Monitoring and Evaluation",
+    "topics": ["data", "accountability"], "agencies": ["chd", "doh", "lgu"],
+    "summary": "CHDs and MOH-BARMM lead monitoring and evaluation and send quarterly reports using the indicators in Annex F.",
+    "points": [
+      "Reports are due in the month after each quarter ends (April, July, October and January) on the prescribed template.",
+      "Patient data are recorded in the Mental Health Information System (MHIS) of provincial, city or municipal facilities or barangay health centers.",
+      "Records follow medical confidentiality rules, including the Philippine Health Information Exchange joint order and DOH AO 2020-0030 on data privacy.",
+      "Sharing program data with a third party requires a signed Data Sharing Agreement (template in Annex H)."
+    ]
+  },
+  {
+    "id": "a25-p8", "doc": "ao2025", "ref": "Part VIII", "title": "Roles and Responsibilities",
+    "topics": ["governance", "crisis", "workforce", "data"], "agencies": ["pcmh", "doh", "ncmh", "chd", "lgu", "community"],
+    "summary": "Assigns roles from the central DOH down to LGUs, partners and civil society.",
+    "points": [
+      "PCMH: leads a biennial, multi-sectoral review of CBMH implementation, gives technical guidance to national agencies and local implementers, and cascades member agencies' roles.",
+      "Disease Prevention and Control Bureau: leads implementation and central monitoring and evaluation, builds CHD capacity, and develops supportive policies and tools, including updates to the Omnibus Health Guidelines and clinical practice guidelines.",
+      "Health Promotion Bureau: leads health promotion strategies, research and literacy work for community settings.",
+      "NCMH: develops clinical and psychosocial protocols for CBMH, supports data surveillance, monitors specialty mental health centers and helps build digital solutions.",
+      "Health Emergency Management Bureau: mobilizes Health Emergency Response Teams, including MHPSS providers, and builds intersectoral coordination for crises.",
+      "CHDs and MOH-BARMM: disseminate the framework, give technical assistance to LGUs, monitor and evaluate, and consolidate LGU reports into quarterly regional summaries for the DOH.",
+      "LGUs: map resources and allocate funds, include CBMH in the LIPH, provide or facilitate services in communities, schools and workplaces, coordinate with the Persons with Disability Affairs Office on data profiling and PWD IDs for eligible users, assess needs, ensure capacity building, run awareness activities and oversee implementation and reporting.",
+      "Development partners are encouraged to align their plans and support the DOH. Learning institutions, professional groups, faith-based organizations, NGOs and civil society cascade the framework, share data with the NCMH, support community activities including suicide prevention, and do research."
+    ]
+  },
+  {
+    "id": "a25-transitory", "doc": "ao2025", "ref": "Transitory clause", "title": "Transitory Clause",
+    "topics": ["data"], "agencies": ["lgu", "doh"],
+    "summary": "Until patient data are fully integrated into the MHIS, they are recorded in the existing Field Health Service Information System and reported under the National Mental Health Program's reporting mechanisms.",
+    "points": []
+  },
+  {
+    "id": "a25-funding", "doc": "ao2025", "ref": "Funding", "title": "Funding and Effectivity",
+    "topics": ["financing"], "agencies": ["doh", "lgu"],
+    "summary": "The order states no dedicated budget: all agencies allocate the funding needed, consistent with their mandates and subject to the usual accounting and auditing rules.",
+    "points": [
+      "The order takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation, with three certified copies filed with the UP Law Center's Office of the National Administrative Register.",
+      "A separability clause keeps the other provisions in force if one is declared invalid."
+    ]
+  },
+  {
+    "id": "a25-annex-e", "doc": "ao2025", "ref": "Annex E", "title": "Proposed Minimum Service Requirements for CBMH",
+    "topics": ["workforce", "services"], "agencies": ["lgu", "doh"],
+    "summary": "Three competency levels link who delivers a service to what they provide.",
+    "points": [
+      "Basic: foundational awareness of mental, neurological and substance use conditions, community advocacy, respect for dignity and confidentiality. Delivered by barangay health workers, midwives, nurses, physicians and other stakeholders. Services: health education and advocacy, identification of red flags, screening and referral to primary care.",
+      "Intermediate: entry-level support, structured assessment and basic care with minimal supervision. Delivered by nurses. Services: basic services plus assessment, psychoeducation and information, referral to a higher-level facility and medication provision.",
+      "Advanced: structured assessment, treatment planning, community interventions and program contribution. Delivered by physicians. Services: basic and intermediate services plus management, treatment and referral to a higher-level facility."
+    ]
+  },
+  {
+    "id": "a25-annex-f", "doc": "ao2025", "ref": "Annex F", "title": "CBMH Indicators for Monitoring and Evaluation",
+    "topics": ["data", "accountability"], "agencies": ["chd", "lgu"],
+    "summary": "Indicators run from inputs to outputs, outcomes and impact.",
+    "points": [
+      "Inputs include localization of the Mental Health Act at LGU level, a coordinating body such as a local health board or mental health working group, promotion campaign plans, budget allocation for the program, at least one technical staff, coordinator and admin, and access to essential medicines.",
+      "Outputs include rural health unit staff trained on the contextualized mhGAP intervention guide and on SBIRT, LGUs with DOH-accredited community-based drug rehabilitation programs, and the number of RHUs providing at least one MNS service such as assessment, psychosocial support, medication, or referral and reporting.",
+      "The outcome and impact columns include the proportion of individuals assessed using the mhGAP intervention guide, reduced mortality from preventable deaths related to MNS conditions, and improved access to MNS services. The scan is hard to read here, so check the exact column layout against the official copy."
+    ]
+  },
+  {
+    "id": "a25-annex-d", "doc": "ao2025", "ref": "Annex D", "title": "CBMH Action Plan Template",
+    "topics": ["community", "governance"], "agencies": ["lgu"],
+    "summary": "An outline for an LGU's CBMH Action Plan: a situational analysis, needs assessment, program plan, implementation plan, monitoring plan, evaluation plan, and recommendations and next steps.",
+    "points": [
+      "The situational analysis covers the community profile, health and mental health status, existing services and resources, stakeholders, the policy and legal environment and a SWOT analysis.",
+      "The program plan sets SMART goals, scope, resources and a timeline.",
+      "The implementation plan lists activities, responsibilities, budget and risk management.",
+      "Monitoring and evaluation plans link activities to indicators and say how data will be analyzed."
+    ]
+  },
+  {
+    "id": "a25-annex-g", "doc": "ao2025", "ref": "Annexes G and H", "title": "Data Management Plan and Data Sharing Agreement",
+    "topics": ["data", "rights"], "agencies": ["doh", "philhealth", "lgu"],
+    "summary": "Annex G sets rules for personal and sensitive personal information under the Data Privacy Act and the UHC Act. Annex H is a data sharing agreement template.",
+    "points": [
+      "A data protection officer oversees compliance, and a Data Privacy Committee reviews data policies.",
+      "Informed consent is obtained before collecting personal data.",
+      "Data are kept for ten years from the last service date, then securely disposed of.",
+      "Data go to the DOH and PhilHealth for monitoring, evaluation and policy research only after de-identification.",
+      "Data subjects have rights to be informed, access, correct and erase their data, subject to legal limits, and breaches are reported to the National Privacy Commission."
+    ]
+  }
+]

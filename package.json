@@ -1,0 +1,12 @@
+{
+  "name": "mh-policy-trainer",
+  "version": "1.0.0",
+  "description": "Study app for RA 11036, DOH AO 2016-0039 and DOH AO 2025-0028",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "validate": "node scripts/validate-content.mjs",
+    "serve": "python3 -m http.server 8080"
+  }
+}

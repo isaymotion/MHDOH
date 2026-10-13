@@ -1,0 +1,128 @@
+[
+  {
+    "id": "sc-emergency",
+    "title": "Scenario 1: The agitated patient",
+    "doc": "ra11036",
+    "level": "Clinician and facility staff",
+    "setup": "A 34-year-old man is brought to a hospital emergency room by his sister. He is severely agitated, says he will hurt himself, and refuses any treatment. His chart shows a notarized advance directive that states he does not want to be physically restrained unless there is no alternative.",
+    "steps": [
+      {
+        "prompt": "What is the first thing the team should do about his refusal?",
+        "options": [
+          { "text": "Treat it as a psychiatric emergency and start restraint right away, since he has refused.", "correct": false, "feedback": "Refusal alone does not trigger the exception. Informed consent is the rule, and the exception requires an emergency or impaired capacity plus four safeguards." },
+          { "text": "Check whether this is a psychiatric emergency or whether his capacity is impaired, and assess it through a mental health professional.", "correct": true, "feedback": "Capacity is presumed. Treatment without consent is allowed only in a psychiatric or neurologic emergency or when capacity is impaired." },
+          { "text": "Ask his sister to sign consent for everything.", "correct": false, "feedback": "A relative is not automatically the decision maker. A legal representative acts as substitute decision maker only when a professional assesses temporary impairment of capacity." }
+        ],
+        "cite": ["ra-s8", "ra-s13", "ra-s10"]
+      },
+      {
+        "prompt": "The attending professional concludes it is an emergency. What about the advance directive?",
+        "options": [
+          { "text": "Ignore it, because emergencies override everything.", "correct": false, "feedback": "The intervention must follow the advance directive if one is available." },
+          { "text": "Follow it, unless doing so would pose an immediate risk of serious harm to him or another person.", "correct": true, "feedback": "That is the exact exception to following the directive in Section 13." },
+          { "text": "Follow it only if his sister agrees.", "correct": false, "feedback": "The directive is the user's own decision; the family's agreement is not the test." }
+        ],
+        "cite": ["ra-s9", "ra-s13"]
+      },
+      {
+        "prompt": "Restraint is ordered. Which set of safeguards applies?",
+        "options": [
+          { "text": "It is limited to what is necessary and lasts only while the emergency lasts; the attending professional orders it; the internal review board reviews it within 15 days and every 15 days after; it follows approved guidelines and is fully documented.", "correct": true, "feedback": "These match the safeguards listed in Section 13." },
+          { "text": "Any nurse may order it, and review happens at the next annual audit.", "correct": false, "feedback": "It must be ordered by the attending mental health professional, and review is every 15 days." },
+          { "text": "It continues until the family collects him, with no review.", "correct": false, "feedback": "It must end when the emergency or impairment ends, and it is reviewed." }
+        ],
+        "cite": ["ra-s13", "ra-s12"]
+      },
+      {
+        "prompt": "Afterward, the man asks to see his clinical record. What applies?",
+        "options": [
+          { "text": "He has access to his own records unless the attending professional believes disclosure would cause harm, and he can contest that with the internal review board or the CHR.", "correct": true, "feedback": "That is the Section 5 provision on access to records." },
+          { "text": "Records belong to the hospital and are never shared with patients.", "correct": false, "feedback": "Service users have a right of access, subject to the harm exception." },
+          { "text": "Only his sister may see them.", "correct": false, "feedback": "Records are his; disclosure to others needs his written consent outside the five exceptions." }
+        ],
+        "cite": ["ra-s5"]
+      }
+    ]
+  },
+  {
+    "id": "sc-confidential",
+    "title": "Scenario 2: The employer's question",
+    "doc": "ra11036",
+    "level": "Clinicians, HR and managers",
+    "setup": "An employee receives outpatient care at a clinic. Her manager phones the clinic, saying he is worried and asks what her diagnosis is and whether she will return to work.",
+    "steps": [
+      {
+        "prompt": "How should the clinic respond?",
+        "options": [
+          { "text": "Give the diagnosis, since the manager is concerned about her welfare.", "correct": false, "feedback": "Disclosure needs written consent except in five cases. Concern does not make the call one of them." },
+          { "text": "Decline to disclose unless she has given written consent or one of the five exceptions applies.", "correct": true, "feedback": "Confidentiality of records is a right; disclosure needs written consent except for law or court order, the user's consent, a life-threatening emergency, suspected child abuse of a minor, or a case against a professional." },
+          { "text": "Confirm only that she is a patient.", "correct": false, "feedback": "Even confirming she is a patient is information about her care and should not be shared without consent." }
+        ],
+        "cite": ["ra-s5", "ra-s44"]
+      },
+      {
+        "prompt": "What risk does the clinic face if it discloses without a valid basis?",
+        "options": [
+          { "text": "None, because only courts can penalize.", "correct": false, "feedback": "The Act itself makes violation of confidentiality punishable." },
+          { "text": "Imprisonment of six months to two years, a fine of P10,000 to P200,000, or both, falling on the responsible individuals if the facility is a juridical person.", "correct": true, "feedback": "This is the Section 44 penalty clause." },
+          { "text": "A written reminder only.", "correct": false, "feedback": "The Act specifies criminal penalties." }
+        ],
+        "cite": ["ra-s44"]
+      },
+      {
+        "prompt": "What should the employer be doing, according to the Act?",
+        "options": [
+          { "text": "Developing workplace mental health policies and programs, correcting stigma and discrimination, and supporting employees with mental health conditions.", "correct": true, "feedback": "This is Section 25. The Civil Service Commission and DOLE have their own duties in Section 35." },
+          { "text": "Asking for diagnoses so it can plan.", "correct": false, "feedback": "Support does not require disclosure of diagnoses." },
+          { "text": "Nothing; the Act covers only health facilities.", "correct": false, "feedback": "The Act places explicit duties on workplaces." }
+        ],
+        "cite": ["ra-s25", "ra-s35"]
+      }
+    ]
+  },
+  {
+    "id": "sc-lgu",
+    "title": "Scenario 3: A municipality starts community mental health",
+    "doc": "ao2025",
+    "level": "LGU health officers and planners",
+    "setup": "A municipal health officer is asked to start community-based mental health services. The municipality has barangay health workers, two nurses, one physician and a rural health unit. There are no psychiatrists.",
+    "steps": [
+      {
+        "prompt": "Where should the planning begin?",
+        "options": [
+          { "text": "Wait for the DOH to issue operational guidelines before doing anything.", "correct": false, "feedback": "AO 2025-0028 notes that DOH operational guidelines are still to be developed, but LGUs are expected to develop strategies now, with DOH technical assistance." },
+          { "text": "Through the local mental health council or local health board: situational analysis and resource mapping, then a CBMH Action Plan using Annex D integrated into the LIPH.", "correct": true, "feedback": "This follows the governance and community engagement provisions." },
+          { "text": "Hire a psychiatrist first, then plan.", "correct": false, "feedback": "The framework relies on task sharing and tiered competencies, not only specialists." }
+        ],
+        "cite": ["a25-governance", "a25-engagement", "a25-annex-d"]
+      },
+      {
+        "prompt": "Who can deliver which services?",
+        "options": [
+          { "text": "BHWs and others at the Basic tier (awareness, red flags, screening, referral); nurses at the Intermediate tier (assessment, psychoeducation, medication provision, referral); physicians at the Advanced tier (management, treatment).", "correct": true, "feedback": "This is the Annex E tier structure." },
+          { "text": "Only physicians may do anything, including screening.", "correct": false, "feedback": "Basic tier services include BHWs and other stakeholders." },
+          { "text": "BHWs may prescribe medication.", "correct": false, "feedback": "Medication provision sits at the Intermediate tier and above, delivered by nurses and physicians." }
+        ],
+        "cite": ["a25-annex-e", "a25-services"]
+      },
+      {
+        "prompt": "A patient needs care beyond what the rural health unit can provide. What should happen?",
+        "options": [
+          { "text": "Refer through the Health Care Provider Network to a higher level, and arrange continuity of care back in the community afterward.", "correct": true, "feedback": "Referral works up and back down, with recovery assistance such as housing, jobs and meaningful daily activity." },
+          { "text": "Discharge the patient with no follow-up.", "correct": false, "feedback": "Continuity of care is a key CBMH element." },
+          { "text": "Send the patient to the CHD office.", "correct": false, "feedback": "CHDs give technical assistance and monitor; they are not the referral destination." }
+        ],
+        "cite": ["a25-continuity", "a25-services", "a25-p4"]
+      },
+      {
+        "prompt": "What does the municipality owe in reporting?",
+        "options": [
+          { "text": "Quarterly reports using the Annex F indicators, due in April, July, October and January, with patient data recorded in the MHIS and sharing only under a Data Sharing Agreement.", "correct": true, "feedback": "These are the monitoring and evaluation provisions." },
+          { "text": "One annual report in December.", "correct": false, "feedback": "Reporting is quarterly." },
+          { "text": "No reporting until a dedicated budget is released.", "correct": false, "feedback": "The order states no dedicated budget; agencies allocate funding within their mandates." }
+        ],
+        "cite": ["a25-monitoring", "a25-funding"]
+      }
+    ]
+  }
+]

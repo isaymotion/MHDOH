@@ -1,0 +1,241 @@
+[
+  {
+    "id": "p-bhw",
+    "role": "Barangay health worker or community health worker",
+    "blurb": "What the Basic tier expects of you, how referral works and what must stay confidential.",
+    "steps": [
+      {
+        "type": "lesson",
+        "ref": "l-a25-2",
+        "label": "Lesson: the service package and three tiers"
+      },
+      {
+        "type": "lesson",
+        "ref": "l-a25-4",
+        "label": "Lesson: empowerment, family and community"
+      },
+      {
+        "type": "section",
+        "ref": "ra-s27",
+        "label": "Read: Capacity building of barangay health workers"
+      },
+      {
+        "type": "quiz",
+        "ref": "topic:community",
+        "label": "Quiz: community-based care"
+      },
+      {
+        "type": "scenario",
+        "ref": "sc-lgu",
+        "label": "Scenario 3: a municipality starts CBMH"
+      }
+    ]
+  },
+  {
+    "id": "p-clinician",
+    "role": "Nurse, physician or other clinician",
+    "blurb": "Consent, capacity, restraint, confidentiality and the tiers of care.",
+    "steps": [
+      {
+        "type": "lesson",
+        "ref": "l-ra-1",
+        "label": "Lesson: policy and rights"
+      },
+      {
+        "type": "lesson",
+        "ref": "l-ra-2",
+        "label": "Lesson: consent, capacity and decision-making"
+      },
+      {
+        "type": "scenario",
+        "ref": "sc-emergency",
+        "label": "Scenario 1: the agitated patient"
+      },
+      {
+        "type": "scenario",
+        "ref": "sc-confidential",
+        "label": "Scenario 2: the employer's question"
+      },
+      {
+        "type": "quiz",
+        "ref": "topic:consent",
+        "label": "Quiz: consent and decision-making"
+      },
+      {
+        "type": "section",
+        "ref": "a25-annex-e",
+        "label": "Read: Annex E minimum service requirements"
+      }
+    ]
+  },
+  {
+    "id": "p-lgu",
+    "role": "LGU health officer or planner",
+    "blurb": "Your duties under the Act and AO 2025-0028: planning, services, reporting.",
+    "steps": [
+      {
+        "type": "section",
+        "ref": "ra-s37",
+        "label": "Read: duties of local government units"
+      },
+      {
+        "type": "lesson",
+        "ref": "l-a25-3",
+        "label": "Lesson: governance, planning and reporting"
+      },
+      {
+        "type": "tool",
+        "ref": "checklist",
+        "label": "Tool: LGU readiness checklist"
+      },
+      {
+        "type": "tool",
+        "ref": "actionplan",
+        "label": "Tool: action plan builder"
+      },
+      {
+        "type": "scenario",
+        "ref": "sc-lgu",
+        "label": "Scenario 3: a municipality starts CBMH"
+      },
+      {
+        "type": "quiz",
+        "ref": "doc:ao2025",
+        "label": "Quiz: AO 2025-0028"
+      }
+    ]
+  },
+  {
+    "id": "p-admin",
+    "role": "Facility administrator or internal review board member",
+    "blurb": "Review boards, the emergency exception, duties of facilities and penalties.",
+    "steps": [
+      {
+        "type": "section",
+        "ref": "ra-s12",
+        "label": "Read: internal review board"
+      },
+      {
+        "type": "section",
+        "ref": "ra-s13",
+        "label": "Read: exceptions to informed consent"
+      },
+      {
+        "type": "lesson",
+        "ref": "l-ra-3",
+        "label": "Lesson: services, facilities and promotion"
+      },
+      {
+        "type": "scenario",
+        "ref": "sc-emergency",
+        "label": "Scenario 1: the agitated patient"
+      },
+      {
+        "type": "quiz",
+        "ref": "topic:accountability",
+        "label": "Quiz: oversight and penalties"
+      }
+    ]
+  },
+  {
+    "id": "p-school",
+    "role": "Teacher, school staff or employer",
+    "blurb": "What the Act asks of schools and workplaces.",
+    "steps": [
+      {
+        "type": "section",
+        "ref": "ra-s23",
+        "label": "Read: mental health in the educational system"
+      },
+      {
+        "type": "section",
+        "ref": "ra-s25",
+        "label": "Read: mental health in the workplace"
+      },
+      {
+        "type": "scenario",
+        "ref": "sc-confidential",
+        "label": "Scenario 2: the employer's question"
+      },
+      {
+        "type": "quiz",
+        "ref": "doc:ra11036",
+        "label": "Quiz: the Mental Health Act"
+      }
+    ]
+  },
+  {
+    "id": "p-family",
+    "role": "Service user, family member or carer",
+    "blurb": "Your rights, how to plan ahead and where to take a complaint.",
+    "steps": [
+      {
+        "type": "lesson",
+        "ref": "l-ra-1",
+        "label": "Lesson: policy and rights"
+      },
+      {
+        "type": "section",
+        "ref": "ra-s6",
+        "label": "Read: rights of family members, carers and legal representatives"
+      },
+      {
+        "type": "section",
+        "ref": "ra-s9",
+        "label": "Read: advance directive"
+      },
+      {
+        "type": "section",
+        "ref": "ra-s33",
+        "label": "Read: complaint and investigation"
+      },
+      {
+        "type": "quiz",
+        "ref": "topic:rights",
+        "label": "Quiz: rights and safeguards"
+      }
+    ]
+  },
+  {
+    "id": "p-student",
+    "role": "Student or newcomer to the topic",
+    "blurb": "A complete tour of all three documents, then the comparison.",
+    "steps": [
+      {
+        "type": "lesson",
+        "ref": "l-ra-1",
+        "label": "Module 1: the Mental Health Act"
+      },
+      {
+        "type": "lesson",
+        "ref": "l-a16-2",
+        "label": "Module 2: the Operational Framework"
+      },
+      {
+        "type": "lesson",
+        "ref": "l-a25-2",
+        "label": "Module 3: community-based mental health"
+      },
+      {
+        "type": "lesson",
+        "ref": "l-cmp-1",
+        "label": "Module 4: putting the three together"
+      },
+      {
+        "type": "tool",
+        "ref": "compare",
+        "label": "Tool: side-by-side comparison"
+      },
+      {
+        "type": "flashcards",
+        "ref": "all",
+        "label": "Flashcards: all decks"
+      },
+      {
+        "type": "quiz",
+        "ref": "all",
+        "label": "Quiz: all topics"
+      }
+    ]
+  }
+]

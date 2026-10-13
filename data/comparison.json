@@ -1,0 +1,77 @@
+[
+  {
+    "aspect": "What it is",
+    "ra": "A national law that sets rights, duties and penalties.",
+    "a16": "A DOH order that sets the operational framework of the National Mental Health Program.",
+    "a25": "A DOH order that sets the national policy framework for community-based mental health services.",
+    "cite": [
+      "ra-s2",
+      "a16-p1",
+      "a25-p1"
+    ]
+  },
+  {
+    "aspect": "Core structure",
+    "ra": "Rights of users, families and professionals; consent rules; service duties; agency duties; Council.",
+    "a16": "Five program components under three strategic approaches.",
+    "a25": "Governance, community engagement, capacity building, empowerment, family, continuity of care, services and monitoring.",
+    "cite": [
+      "ra-s5",
+      "a16-p6",
+      "a25-governance"
+    ]
+  },
+  {
+    "aspect": "Coordinating body",
+    "ra": "The Philippine Council for Mental Health (Sections 39 to 41).",
+    "a16": "Roles assigned to DOH offices, led by the Disease Prevention and Control Bureau.",
+    "a25": "DOH through the PCMH, bureaus and CHDs; LGUs through local mental health councils or local health boards.",
+    "cite": [
+      "ra-s39",
+      "a16-p10",
+      "a25-governance"
+    ]
+  },
+  {
+    "aspect": "Role of LGUs",
+    "ra": "Local ordinance, integrate mental health into basic care, train providers, set up multi-sectoral network.",
+    "a16": "Adopt and implement the program, provide services and train personnel.",
+    "a25": "Develop CBMH strategies, integrate into the LIPH, map resources, report quarterly.",
+    "cite": [
+      "ra-s37",
+      "a16-p10",
+      "a25-p8"
+    ]
+  },
+  {
+    "aspect": "Insurance",
+    "ra": "The DOH must coordinate with PhilHealth so insurance packages match those for physical disorders of comparable impact (Section 30).",
+    "a16": "PhilHealth develops insurance packages from identification through rehabilitation.",
+    "a25": "No dedicated budget; agencies allocate funding within their mandates.",
+    "cite": [
+      "ra-s30",
+      "a16-p10",
+      "a25-funding"
+    ]
+  },
+  {
+    "aspect": "Data and reporting",
+    "ra": "LGUs report quarterly to the Council through the DOH, without disclosing identities (Section 17).",
+    "a16": "Annual Program Implementation Review.",
+    "a25": "Quarterly reports in April, July, October and January; MHIS; Data Sharing Agreement for third parties.",
+    "cite": [
+      "ra-s17",
+      "a16-p10",
+      "a25-monitoring"
+    ]
+  },
+  {
+    "aspect": "Penalties",
+    "ra": "Section 44: six months to two years, P10,000 to P200,000, or both, for four acts.",
+    "a16": "No penalty provision in the summarized sections.",
+    "a25": "No penalty provision in the summarized sections.",
+    "cite": [
+      "ra-s44"
+    ]
+  }
+]

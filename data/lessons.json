@@ -1,0 +1,275 @@
+[
+  {
+    "id": "m-ra",
+    "doc": "ra11036",
+    "title": "Module 1: The Mental Health Act (RA 11036)",
+    "intro": "The law that makes mental health a right. Four short lessons: policy and rights, consent, facilities and services, and who does what.",
+    "lessons": [
+      {
+        "id": "l-ra-1",
+        "title": "Policy and rights",
+        "body": [
+          "The Act declares mental health a basic right and commits the State to a comprehensive, integrated and equitable system of mental health care. Service users keep all of their constitutional and international human rights on an equal basis.",
+          "Section 5 then lists specific rights in care: freedom from discrimination, evidence-based treatment, access at every level of the health system in the least restrictive setting, humane treatment, aftercare, confidentiality and access to records.",
+          "A facility must tell a service user about these rights within 24 hours of admission, in a form and language they understand. Confidentiality can be broken without written consent only in five listed cases."
+        ],
+        "keyPoints": [
+          "Rights apply on an equal, non-discriminatory basis.",
+          "Rights must be explained within 24 hours of admission.",
+          "Five exceptions to confidentiality, no more."
+        ],
+        "cite": [
+          "ra-s2",
+          "ra-s5"
+        ]
+      },
+      {
+        "id": "l-ra-2",
+        "title": "Consent, capacity and decision-making",
+        "body": [
+          "Written informed consent comes before any treatment plan, including restraint. Everyone, including persons with disabilities and minors, is presumed to have legal capacity.",
+          "Service users can plan ahead with a notarized advance directive, appoint a legal representative by notarized document, and name up to three supporters for supported decision making. A representative acts as substitute decision maker only when a mental health professional assesses temporary impairment of capacity.",
+          "Treatment without consent is allowed only in a psychiatric or neurologic emergency, or when capacity is impaired, and only under four safeguards. The internal review board must review the order within 15 days and every 15 days after."
+        ],
+        "keyPoints": [
+          "Capacity is presumed.",
+          "Advance directive, legal representative and supporters are three different tools.",
+          "The emergency exception is narrow, time-limited and reviewed every 15 days."
+        ],
+        "cite": [
+          "ra-s8",
+          "ra-s9",
+          "ra-s10",
+          "ra-s11",
+          "ra-s13"
+        ]
+      },
+      {
+        "id": "l-ra-3",
+        "title": "Services, facilities and promotion",
+        "body": [
+          "The Act requires mental health services at the community level, in community-based facilities, and in regional, provincial and tertiary hospitals. Facilities have duties of quality and must report as required.",
+          "Every public and private facility must set up an internal review board that reviews treatment, restraint and confinement cases and can inspect conditions.",
+          "Promotion reaches beyond clinics: schools integrate mental health into education, and employers develop workplace mental health policies."
+        ],
+        "keyPoints": [
+          "Internal review boards include a DOH and a CHR representative.",
+          "Schools and workplaces have explicit duties."
+        ],
+        "cite": [
+          "ra-s12",
+          "ra-s15",
+          "ra-s16",
+          "ra-s18",
+          "ra-s19",
+          "ra-s23",
+          "ra-s25"
+        ]
+      },
+      {
+        "id": "l-ra-4",
+        "title": "Who does what, and what the penalties are",
+        "body": [
+          "The Philippine Council for Mental Health is the coordinating body, supported by a DOH mental health division. The National Center for Mental Health has its own mandate, and the DOH, CHR, education agencies, labor agencies, DSWD and LGUs each have a section of duties.",
+          "Four acts are punishable by six months to two years of imprisonment, a fine of P10,000 to P200,000, or both: failure to secure informed consent, breach of confidentiality, discrimination, and inhumane or unscientific treatment."
+        ],
+        "keyPoints": [
+          "Council: Sections 39 to 41.",
+          "Penalty clause: Section 44."
+        ],
+        "cite": [
+          "ra-s29",
+          "ra-s30",
+          "ra-s31",
+          "ra-s37",
+          "ra-s39",
+          "ra-s40",
+          "ra-s44"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-a16",
+    "doc": "ao2016",
+    "title": "Module 2: The Operational Framework (AO 2016-0039)",
+    "intro": "The DOH's operating manual for the National Mental Health Program, written before the Act.",
+    "lessons": [
+      {
+        "id": "l-a16-1",
+        "title": "Why it exists and what it covers",
+        "body": [
+          "AO 2016-0039 revises the framework for a comprehensive National Mental Health Program. It sets objectives, scope and the vocabulary the program uses, such as MNS (mental, neurological and substance use) disorders."
+        ],
+        "keyPoints": [
+          "It is a DOH administrative order that assigns roles to DOH offices, PhilHealth and LGUs.",
+          "It came two years before the Mental Health Act."
+        ],
+        "cite": [
+          "a16-p1",
+          "a16-p2",
+          "a16-p3",
+          "a16-p4"
+        ]
+      },
+      {
+        "id": "l-a16-2",
+        "title": "Principles, approaches and components",
+        "body": [
+          "The framework rests on guiding principles and three strategic approaches: health systems, whole-of-government and whole-of-society.",
+          "It organizes the program into five components: Wellness of Daily Living; Extreme Life Experience; Mental Disorders; Neurologic Disorders; and Substance Abuse and Other Forms of Addiction."
+        ],
+        "keyPoints": [
+          "Three approaches, five components.",
+          "Components run from promotion to treatment."
+        ],
+        "cite": [
+          "a16-p5",
+          "a16-p6"
+        ]
+      },
+      {
+        "id": "l-a16-3",
+        "title": "Roles, funding and implementation",
+        "body": [
+          "Part X gives each DOH office, PhilHealth, LGUs and the private sector a role. The Disease Prevention and Control Bureau leads the program and runs an annual Program Implementation Review.",
+          "PhilHealth develops insurance packages covering identification through rehabilitation, and the Pharmaceutical Division keeps the essential medicines list for MNS disorders updated."
+        ],
+        "keyPoints": [
+          "Lead office: Disease Prevention and Control Bureau.",
+          "Insurance and medicines are assigned explicitly."
+        ],
+        "cite": [
+          "a16-p7",
+          "a16-p8",
+          "a16-p9",
+          "a16-p10",
+          "a16-p11"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-a25",
+    "doc": "ao2025",
+    "title": "Module 3: Community-Based Mental Health (AO 2025-0028)",
+    "intro": "The newest framework: how mental health care reaches communities, who delivers it, and how it is planned and reported.",
+    "lessons": [
+      {
+        "id": "l-a25-1",
+        "title": "Rationale, principles and definitions",
+        "body": [
+          "AO 2025-0028 sets a national policy framework for community-based mental health (CBMH). It defines key terms such as community health worker, task sharing, HCPN and the biopsychosocial spiritual (BPSS) framework."
+        ],
+        "keyPoints": [
+          "Community health worker is defined broadly.",
+          "Task sharing trains non-specialists to give care."
+        ],
+        "cite": [
+          "a25-p1",
+          "a25-p2",
+          "a25-p3",
+          "a25-p4",
+          "a25-p5",
+          "a25-p6"
+        ]
+      },
+      {
+        "id": "l-a25-2",
+        "title": "The service package and three tiers",
+        "body": [
+          "Annex E links who delivers a service to what they provide, in three tiers. Basic: awareness, red flag identification, screening and referral. Intermediate: adds assessment, psychoeducation, medication provision and referral to higher levels. Advanced: adds management and treatment, usually by physicians.",
+          "Basic services are expected to be delivered by mhGAP-trained primary care providers within a Health Care Provider Network that supports referral up and back to the community."
+        ],
+        "keyPoints": [
+          "Basic, Intermediate and Advanced.",
+          "Referral works up and back down."
+        ],
+        "cite": [
+          "a25-services",
+          "a25-annex-e",
+          "a25-continuity"
+        ]
+      },
+      {
+        "id": "l-a25-3",
+        "title": "Governance, planning and reporting",
+        "body": [
+          "The DOH, through the PCMH, bureaus and CHDs, leads rollout. LGUs, through their local mental health council or local health board, develop CBMH strategies and integrate them into the LIPH and Annual Operation Plan. Annex D provides the action plan template.",
+          "CHDs and MOH-BARMM lead monitoring, with quarterly reports due in April, July, October and January using the Annex F indicators. Data sharing with third parties needs a signed Data Sharing Agreement.",
+          "The order states no dedicated budget. Agencies allocate funding within their mandates."
+        ],
+        "keyPoints": [
+          "Quarterly reporting after each quarter ends.",
+          "No dedicated budget is stated."
+        ],
+        "cite": [
+          "a25-governance",
+          "a25-annex-d",
+          "a25-monitoring",
+          "a25-funding",
+          "a25-p8"
+        ]
+      },
+      {
+        "id": "l-a25-4",
+        "title": "Empowerment, family and community",
+        "body": [
+          "The order commits to community engagement, building the capacity of community health workers, empowering service users, and strengthening families and support groups."
+        ],
+        "keyPoints": [
+          "People with lived experience are partners, not only recipients."
+        ],
+        "cite": [
+          "a25-engagement",
+          "a25-capacity",
+          "a25-empowerment",
+          "a25-family"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m-cmp",
+    "doc": "all",
+    "title": "Module 4: Putting the three together",
+    "intro": "How the law and the two orders fit: what each one is for, who it binds and where they overlap.",
+    "lessons": [
+      {
+        "id": "l-cmp-1",
+        "title": "Law versus orders",
+        "body": [
+          "RA 11036 is a statute passed by Congress. It creates rights, duties and penalties. The two administrative orders are DOH issuances: they organize how the DOH and its partners implement programs, and the only penalty provision in these materials is the Act's Section 44.",
+          "AO 2016-0039 predates the Act and AO 2025-0028 follows it by seven years, so the newer order is where community delivery is spelled out in operational detail."
+        ],
+        "keyPoints": [
+          "The penalty clause is in the Act (Section 44).",
+          "The orders translate policy into program operations."
+        ],
+        "cite": [
+          "ra-s44",
+          "a16-p1",
+          "a25-p1"
+        ]
+      },
+      {
+        "id": "l-cmp-2",
+        "title": "Where they overlap",
+        "body": [
+          "All three expect services close to where people live. The Act requires community-level services and LGU duties; AO 2016-0039 assigns LGUs to adopt the program; AO 2025-0028 turns that into planning, tiers of care and quarterly reporting.",
+          "See the Compare tool for a side-by-side view by topic."
+        ],
+        "keyPoints": [
+          "LGUs are central in all three.",
+          "Use the Compare tool to see differences by topic."
+        ],
+        "cite": [
+          "ra-s15",
+          "ra-s37",
+          "a16-p10",
+          "a25-governance"
+        ]
+      }
+    ]
+  }
+]

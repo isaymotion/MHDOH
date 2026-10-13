@@ -1,0 +1,56 @@
+{
+  "title": "LGU readiness checklist for community-based mental health",
+  "note": "A self-check built from the duties in RA 11036 Section 37 and AO 2025-0028. It is a study aid, not an official DOH tool.",
+  "groups": [
+    {
+      "id": "g-gov",
+      "label": "Governance and planning",
+      "items": [
+        { "id": "c01", "text": "A local mental health council or local health board is tasked with CBMH strategies.", "cite": ["a25-governance"] },
+        { "id": "c02", "text": "A local ordinance on mental health consistent with national policy exists.", "cite": ["ra-s37"] },
+        { "id": "c03", "text": "A situational analysis and resource mapping have been done.", "cite": ["a25-engagement", "a25-annex-d"] },
+        { "id": "c04", "text": "A CBMH Action Plan (Annex D) is prepared and integrated into the LIPH and Annual Operation Plan.", "cite": ["a25-governance", "a25-annex-d"] },
+        { "id": "c05", "text": "Funding for the plan has been identified within the LGU's own budget, since the order states no dedicated budget.", "cite": ["a25-funding", "a25-p8"] }
+      ]
+    },
+    {
+      "id": "g-serv",
+      "label": "Services and referral",
+      "items": [
+        { "id": "c06", "text": "Basic tier services (awareness, red flags, screening, referral) are available at barangay level.", "cite": ["a25-annex-e"] },
+        { "id": "c07", "text": "Intermediate tier services (assessment, psychoeducation, medication provision) are available through trained nurses.", "cite": ["a25-annex-e"] },
+        { "id": "c08", "text": "Advanced tier management and treatment is available through physicians or by referral.", "cite": ["a25-annex-e"] },
+        { "id": "c09", "text": "Referral pathways to higher-level facilities and back to the community are agreed within the Health Care Provider Network.", "cite": ["a25-continuity", "a25-p4"] },
+        { "id": "c10", "text": "Recovery support (housing, work, meaningful activity) is linked to social services.", "cite": ["a25-continuity", "ra-s37"] }
+      ]
+    },
+    {
+      "id": "g-people",
+      "label": "People and community",
+      "items": [
+        { "id": "c11", "text": "Providers have been trained, including mhGAP training for primary care providers.", "cite": ["a25-services", "ra-s37"] },
+        { "id": "c12", "text": "Community health workers have been trained and supervised.", "cite": ["a25-capacity", "ra-s27"] },
+        { "id": "c13", "text": "Service users, carers and civil society are involved from planning to evaluation, with priority for vulnerable groups.", "cite": ["a25-engagement", "a25-empowerment"] },
+        { "id": "c14", "text": "A multi-sectoral stakeholder network is set up.", "cite": ["ra-s37"] }
+      ]
+    },
+    {
+      "id": "g-data",
+      "label": "Data and reporting",
+      "items": [
+        { "id": "c15", "text": "Patient data are recorded in the MHIS under medical confidentiality rules.", "cite": ["a25-monitoring"] },
+        { "id": "c16", "text": "Quarterly reports are scheduled for April, July, October and January using the Annex F indicators.", "cite": ["a25-monitoring"] },
+        { "id": "c17", "text": "A Data Sharing Agreement (Annex H) is signed before any third-party data sharing.", "cite": ["a25-monitoring", "a25-annex-g"] }
+      ]
+    }
+  ],
+  "actionPlanSections": [
+    { "id": "ap-sit", "label": "Situational analysis", "hint": "Community profile, health and mental health status, existing services and resources, stakeholders, policy environment, SWOT.", "cite": ["a25-annex-d"] },
+    { "id": "ap-needs", "label": "Needs assessment", "hint": "Priority needs and gaps found in the situational analysis.", "cite": ["a25-annex-d"] },
+    { "id": "ap-prog", "label": "Program plan", "hint": "SMART goals, scope, resources and timeline.", "cite": ["a25-annex-d"] },
+    { "id": "ap-impl", "label": "Implementation plan", "hint": "Activities, responsibilities, budget and risk management.", "cite": ["a25-annex-d"] },
+    { "id": "ap-mon", "label": "Monitoring plan", "hint": "Link activities to indicators; say how data will be analyzed.", "cite": ["a25-annex-d", "a25-monitoring"] },
+    { "id": "ap-eval", "label": "Evaluation plan", "hint": "How results will be judged against the goals.", "cite": ["a25-annex-d"] },
+    { "id": "ap-next", "label": "Recommendations and next steps", "hint": "What happens after the first cycle.", "cite": ["a25-annex-d"] }
+  ]
+}
